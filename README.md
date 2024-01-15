@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there! 👋
+
+I'm Jon!  I'm a husband and father, and lifelong musician and performer, who's studying coding (focusing on Game Design) to get a well-paying job where I can still make art ☺️
+
+#### Projects I'm Building:
+- 🎲 **Dungeon Throwdown** | [Live Site](https://dungeon-throwdown.onrender.com) | [Github](https://github.com/jbshryne/dungeon-crawl) | A turn-based RPG-style boardgame for two players
+- ♟️ **CHESSMIXED** | [Live Site](https://chessmixed.onrender.com) | [Github](https://github.com/jbshryne/chess-project) | Currently a full CRUD Chess app w/ remote network play
+- 🐉 **MTG Conclave** | [Live Site](https://jbshryne.github.io/mtg-project) | [Github](https://github.com/jbshryne/mtg-project.git) | A card database site for Magic the Gathering with unique search options
 
 <!--
 **jbshryne/jbshryne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
