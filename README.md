@@ -3,7 +3,7 @@
 - 👨‍👩‍👧 Husband and father
 - 🎵 Musician and sound engineer
 - 🎤 Lifelong performer
-- 🎓 Bootcamp alum ([General Assembly](https://generalassemb.ly/) SEI-523)
+- 🎓 Bootcamp alum ([General Assembly](https://generalassemb.ly/))
 - 🎮 Studying Game Design (Unity & React)
 
 #### Projects I'm Building:
