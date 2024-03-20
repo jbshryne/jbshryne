@@ -1,6 +1,10 @@
-### Hey there! 👋
+### Hey there! I'm Jon 👋
 
-I'm Jon!  I'm a husband and father, and lifelong musician and performer, who's studying coding (focusing on Game Design) to get a well-paying job where I can still make art ☺️
+- 👨‍👩‍👧 Husband and father
+- 🎵 Musician and sound engineer
+- 🎤 Lifelong performer
+- 🎓 SE bootcamp graduate
+- 🎮 Studying Game Design (Unity & React)
 
 #### Projects I'm Building:
 - ⚔️ **Dungeon Throwdown** | [Live Site](https://dungeon-throwdown.onrender.com) | [Github](https://github.com/jbshryne/dungeon-crawl) | A turn-based RPG-style boardgame for two players
