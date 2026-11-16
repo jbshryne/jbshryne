@@ -1,10 +1,10 @@
 ### Hey there! I'm Jon 👋
 
-- 👨‍👩‍👧 Husband and father
-- 🎵 Musician and sound engineer
-- 🎤 Lifelong performer
-- 🎓 SE Bootcamp alum ([General Assembly](https://generalassemb.ly/))
-- 🎮 Studying Game Design (Unity & React)
+- 🏡 Husband and father
+- 🎸🎹 Multi-instrumentalist and sound engineer
+- 🎭 Lifelong performer
+- 🧑🏻‍🎓 SE Bootcamp alum ([General Assembly](https://generalassemb.ly/))
+- 👾 Studying Game Design (Unity & React)
 
 #### Projects I'm Building:
 - ⚔️ **Dungeon Throwdown** | [Live Site](https://dungeon-throwdown.onrender.com) | [Github](https://github.com/jbshryne/dungeon-crawl) | A turn-based RPG-style boardgame for two players
