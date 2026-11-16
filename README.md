@@ -1,8 +1,9 @@
 ### Hey there! I'm Jon 👋
 
 - 🏡 Husband and father
-- 🎸🎹 Multi-instrumentalist and sound engineer
 - 🎭 Lifelong performer
+- 🎸🎹 Multi-instrumentalist and sound engineer
+- 🏰 Former Village Music Director at King Richard’s Faire
 - 🧑🏻‍🎓 SE Bootcamp alum ([General Assembly](https://generalassemb.ly/))
 - 👾 Studying Game Design (Unity & React)
 
