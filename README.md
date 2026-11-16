@@ -1,11 +1,11 @@
 ### Hey there! I'm Jon 👋
 
-- 🏡 Husband and father
-- 🎭 Lifelong performer
-- 🎸🎹 Multi-instrumentalist and sound engineer
-- 🏰 Former Village Music Director at King Richard’s Faire
-- 🧑🏻‍🎓 SE Bootcamp alum ([General Assembly](https://generalassemb.ly/))
-- 👾 Studying Game Design (Unity & React)
+- 🏡🧑‍🧑‍🧒 Husband and father
+- 🎤🎭 Lifelong performer
+- 🎸🎹🎚️ Multi-instrumentalist and sound engineer
+- 🏰🧙‍♂️ Former Village Music Director at King Richard’s Faire
+- 🧑🏻‍💻🎓 SE Bootcamp alum ([General Assembly](https://generalassemb.ly/))
+- 🎮👾 Studying Game Design (Unity & React)
 
 #### Projects I'm Building:
 - ⚔️ **Dungeon Throwdown** | [Live Site](https://dungeon-throwdown.onrender.com) | [Github](https://github.com/jbshryne/dungeon-crawl) | A turn-based RPG-style boardgame for two players
