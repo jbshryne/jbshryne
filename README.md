@@ -11,7 +11,7 @@
 - ⚔️ **Dungeon Throwdown** | [Live Site](https://dungeon-throwdown.onrender.com) | [Github](https://github.com/jbshryne/dungeon-crawl) | A turn-based RPG-style boardgame for two players
 - 🪐 **Solar System Spotlight** | [Live Site](https://jbshryne.itch.io/solar-system-spotlight) | [Github](https://github.com/jbshryne/SolarSystemUnity) | A 3D model of our solar system built in Unity
 - ♟️ **CHESSMIXED** | [Live Site](https://chessmixed-0goz.onrender.com) | [Github](https://github.com/jbshryne/chessmixed-react) | Currently a full CRUD Chess app w/ remote network play
-- 🐉 **MTG Conclave** | [Live Site](https://jbshryne.github.io/mtg-project) | [Github](https://github.com/jbshryne/mtg-project.git) | A card database site for Magic the Gathering with unique search options
+- 🐉 **Chancery Archives** | [Live Site]((https://chancery-archives.jbshryne.workers.dev)) | [Github](https://github.com/jbshryne/card-conclave) | A card database site for Magic the Gathering with flavor-focused search options
 
 <!--
 **jbshryne/jbshryne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
