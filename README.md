@@ -1,6 +1,6 @@
 ### Hey there! I'm Jon 👋
 
-- 🏡🧑‍🧑‍🧒 Husband and father
+- 🏡🚗 Husband and father
 - 🎤🎭 Lifelong performer
 - 🎸🎹🎚️ Multi-instrumentalist and sound engineer
 - 🏰🧙‍♂️ Former Village Music Director at King Richard’s Faire
